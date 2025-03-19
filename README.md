@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tunsmm!
 - 🌱 I’m backend developer mostly using Python and such frameworks as Django, FastAPI and Flask.
-- 👀 My hobbies are workout, marketing, business analysis and, of course, programming.
+- 👀 My hobbies are workout, marketing, business analysis, investment and, of course, programming.
 - 📫 You can contact me on Telegram **[t.me/tunsmm](t.me/tunsmm)**
 
 <!---
